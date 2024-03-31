@@ -1,0 +1,15 @@
+* {
+  padding:0;
+  margin:0
+}
+
+.chart-ctn {
+  width: 60%;
+  margin-inline:auto;
+}
+
+.chart-ctn button {
+  padding: 0.2rem;
+  background-color: azure;
+  border:none;
+}
