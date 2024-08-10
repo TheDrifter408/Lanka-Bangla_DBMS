@@ -5,4 +5,4 @@
  - Number of Male & Female BO A/C holders per division (Bar Chart)
 
  # TODO:
- Research how to implement charts in React.
+ Was done using React-google-charts for which additional organization of data was needed to fit into the shape that this charts package requires.
